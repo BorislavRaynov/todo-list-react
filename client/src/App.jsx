@@ -5,11 +5,11 @@ import Main from './components/Main'
 function App() {
   return (
     <>
-		<Navigation />
+      <Navigation />
 
-		<Main />
+      <Main />
 
-		<Footer />
+      <Footer />
     </>
   )
 }
